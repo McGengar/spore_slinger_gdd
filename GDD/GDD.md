@@ -1,4 +1,4 @@
-# GDD - "Nazwa Gry"
+# GDD - "Spore Slinger"
 
 ### [<-- ReadMe](/README.md)
 
