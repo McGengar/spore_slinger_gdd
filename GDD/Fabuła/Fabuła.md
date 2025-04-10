@@ -5,9 +5,8 @@
 ---
 
 ## Motyw
-...
 
----
+Bezimienny bohater podróżuje przez fanastyczny las odkrywając jego sekrety i pokonując napotkane wyzwania.
 
 ## Główna Historia
 ...
